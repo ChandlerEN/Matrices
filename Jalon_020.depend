@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1612907571 source:d:\onedrive - campusid\campusid\algorithmique\langage c\partiels\partiel_02_matrices\jalon_020\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1612906931 source:d:\onedrive - campusid\campusid\algorithmique\langage c\partiels\jalon_020\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
